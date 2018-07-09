@@ -1,4 +1,13 @@
-## PDFs de ebooks e textos acadêmicos
+## Sumário
+- [Ebooks e textos acadêmicos](#ebooks-e-textos-academicos)
+- [Cursos gratuitos](#cursos-gratuitos)
+- [AudioBooks](#audiobooks)
+- [Reddit](#reddit)
+- [IRC](#irc)
+- [Busca](#busca)
+- [Outros](#outros)
+
+## Ebooks e textos academicos
 
 - [Library Genesis - gen.lib.rus.ec](http://gen.lib.rus.ec)
   - Papers academicos
@@ -71,7 +80,9 @@
 
 - [University Of Reddit - ureddit.com](http://ureddit.com/)
 
-## IRC(Não testei nenhum)
+## IRC
+##### obs: não testei nenhum
+
 - irc://irc.undernet.org/bookz
 - irc://irc.irchighway.net/ebooks
 
