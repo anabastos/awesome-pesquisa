@@ -63,6 +63,7 @@
 ## Cursos gratuitos
 - [OpenLearn - open.edu](http://www.open.edu/openlearn/free-courses/full-catalogue)
 - [Coursera - coursera.org](https://www.coursera.org/?authMode=signup)
+- [Udacity - udacity.com](https://br.udacity.com/courses/all)
 - [EDX - edx.org](https://www.edx.org/)
 - [MIT Open Courseware - ocw.mit.edu](https://ocw.mit.edu/courses/)
 
