@@ -45,6 +45,8 @@
 #### Português(Europeu & BR)
 - [Bibliotronica Portuguesa PT](https://bibliotronicaportuguesa.pt/)
   - 3.000 livros em português para download
+- [Arquivo Marxista](https://www.marxists.org/portugues/)
+  - Biblioteca com ebooks, informações de autores e temas sobre marxismo.
 - [SciElo - books.scielo.org](http://books.scielo.org/)
   - Liblioteca cientifica online de iniciativa das editoras da FioCruz, UFBA, Unesp e Fapesp. Livros em EPUB e PDF
 - [Biblioteca Digital Camões - cvc.instituto-camoes.pt](cvc.instituto-camoes.pt)
@@ -96,6 +98,7 @@
 
 ## Outros
 - [Torrents Academicos - Cursos e Papers](http://academictorrents.com/)
+- [DEVTUBE - Youtube para videos sobre desenvolvimento](https://dev.tube/)
 - [OECD - Dados abertos de economia e estatistica](https://data.oecd.org/)
 - [Data Nasa - Dados abertos da NASA](https://data.nasa.gov/browse)
 - [Quandl - Dados financeiros(freemium)](https://www.quandl.com/)
