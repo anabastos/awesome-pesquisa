@@ -1,3 +1,5 @@
+# Awesome Pesquisa 
+
 ## Sumário
 - [Ebooks e textos acadêmicos](#ebooks-e-textos-academicos)
 - [Cursos gratuitos](#cursos-gratuitos)
@@ -82,7 +84,6 @@
 - [University Of Reddit - ureddit.com](http://ureddit.com/)
 
 ## IRC
-##### obs: não testei nenhum
 
 - irc://irc.undernet.org/bookz
 - irc://irc.irchighway.net/ebooks
@@ -106,4 +107,4 @@
 - [NoExcuseList](http://www.noexcuselist.com/)
 - [Leitura de Bolso - Livros por wpp](http://leituradebolso.com/)
 
-#### Se quiser recomendar algum link é só postar nos comentários
+#### Para colaborar com conteúdo basta criar uma [issue](https://github.com/anabastos/awesome-pesquisa/issues) ou mandar um [PR](https://github.com/anabastos/awesome-pesquisa/pulls)!
