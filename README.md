@@ -97,6 +97,8 @@
 - [Google Academico](https://scholar.google.com.br/)
 
 ## Outros
+- [ShareLatex - Editor colaborativo online para escrever e compartilhar textos em latex](https://www.sharelatex.com/)
+- [Zotero.org - Ferramenta de citação de pesquisa](https://www.zotero.org/)
 - [Torrents Academicos - Cursos e Papers](http://academictorrents.com/)
 - [DEVTUBE - Youtube para videos sobre desenvolvimento](https://dev.tube/)
 - [OECD - Dados abertos de economia e estatistica](https://data.oecd.org/)
