@@ -1,16 +1,32 @@
 # Awesome Pesquisa 
 
 ## Sumário
-- [Ebooks e textos acadêmicos](#ebooks-e-textos-academicos)
-- [Cursos gratuitos](#cursos-gratuitos)
 - [AudioBooks](#audiobooks)
-- [Reddit](#reddit)
-- [IRC](#irc)
 - [Busca](#busca)
+- [Cursos gratuitos](#cursos-gratuitos)
+- [Ebooks e textos acadêmicos](#ebooks-e-textos-acadêmicos)
+- [IRC](#irc)
+- [Reddit](#reddit)
 - [Outros](#outros)
 
-## Ebooks e textos acadêmicos
+## AudioBooks
+- [AudioBookBay - audiobookla.com](http://audiobookla.com/)
+  - Lib de audiobooks para download.
+- [Librivox - librivox.org](https://librivox.org/)
+  - Domínio público de audiobooks por voluntários.
 
+## Busca
+- [Google Acadêmico](https://scholar.google.com.br/)
+- [Google para Ebooks](https://cse.google.com/cse/publicurl?cx=000661023013169144559:a1-kkiboeco)
+
+## Cursos gratuitos
+- [Coursera - coursera.org](https://www.coursera.org/?authMode=signup)
+- [EDX - edx.org](https://www.edx.org/)
+- [MIT Open Courseware - ocw.mit.edu](https://ocw.mit.edu/courses/)
+- [OpenLearn - open.edu](http://www.open.edu/openlearn/free-courses/full-catalogue)
+- [Udacity - udacity.com](https://br.udacity.com/courses/all)
+
+## Ebooks e textos acadêmicos
 - [2020ok Directory of free ebooks - 2020ok.com](http://2020ok.com/)
   - Ebooks grátis.
 - [Archive.org](https://archive.org/)
@@ -42,7 +58,14 @@
 - [Textfiles - textfiles.com](http://textfiles.com/directory.html)
   - Textfile directory.
 
-#### Português(Europeu & BR)
+## IRC
+
+- irc://irc.undernet.org/bookz
+- irc://irc.irchighway.net/ebooks
+
+[Como usar IRC - reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/)
+
+### Português(Europeu & BR)
 - [Arquivo Marxista](https://www.marxists.org/portugues/)
   - Biblioteca com ebooks, informações de autores e temas sobre marxismo.
 - [Biblioteca Brasiliana Guita e José Mindlin - bbm.usp.br](https://www.bbm.usp.br/)
@@ -64,19 +87,6 @@
 - [Universia](http://noticias.universia.com.br/tag/livros-gr%C3%A1tis/) - [Por tema](https://catracalivre.com.br/criatividade/baixe-mais-de-100-livros-academicos/)
   - Reúne mais de 1.000 arquivos, incluindo biografias de cineastas, textos científicos sobre comunicação e clássicos da literatura universal.
 
-## Cursos gratuitos
-- [Coursera - coursera.org](https://www.coursera.org/?authMode=signup)
-- [EDX - edx.org](https://www.edx.org/)
-- [MIT Open Courseware - ocw.mit.edu](https://ocw.mit.edu/courses/)
-- [OpenLearn - open.edu](http://www.open.edu/openlearn/free-courses/full-catalogue)
-- [Udacity - udacity.com](https://br.udacity.com/courses/all)
-
-## AudioBooks
-- [AudioBookBay - audiobookla.com](http://audiobookla.com/)
-  - Lib de audiobooks para download.
-- [Librivox - librivox.org](https://librivox.org/)
-  - Domínio público de audiobooks por voluntários.
-
 ## Reddit
 - [r/academicpublishing](https://www.reddit.com/r/academicpublishing/)
 - [r/BaconBits - (Privado)](https://www.reddit.com/r/BaconBits/)
@@ -84,17 +94,6 @@
 - [r/opendirectories](https://www.reddit.com/r/opendirectories/)
 
 - [University Of Reddit - ureddit.com](http://ureddit.com/)
-
-## IRC
-
-- irc://irc.undernet.org/bookz
-- irc://irc.irchighway.net/ebooks
-
-[Como usar IRC - reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/)
-
-## Busca
-- [Google Acadêmico](https://scholar.google.com.br/)
-- [Google para Ebooks](https://cse.google.com/cse/publicurl?cx=000661023013169144559:a1-kkiboeco)
 
 ## Outros
 - [All Open - Conteúdo opensource](http://allopen.org/)
