@@ -41,6 +41,8 @@
   - Ebooks gratis
 - [Management Library - managementhelp.org](https://managementhelp.org/)
   - Biblioteca de management stuff
+- [Wiley Online Library](https://onlinelibrary.wiley.com/)
+  - Biblioteca online de papers e journals
 
 #### Português(Europeu & BR)
 - [Bibliotronica Portuguesa PT](https://bibliotronicaportuguesa.pt/)
