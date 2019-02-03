@@ -1,8 +1,9 @@
-# Awesome Pesquisa 
+# Awesome Pesquisa
 
 ## Sumário
 - [Ebooks e textos acadêmicos](#ebooks-e-textos-academicos)
 - [Cursos gratuitos](#cursos-gratuitos)
+- [Podcasts sobre tecnologia](#podcasts-sobre-tecnologia)
 - [AudioBooks](#audiobooks)
 - [Reddit](#reddit)
 - [IRC](#irc)
@@ -24,7 +25,7 @@
 - [Archive.org](https://archive.org/)
   - Biblioteca online de livros, filmes, software, sites, musica.
 - [Project Gutenberg - gutenberg.org](http://www.gutenberg.org/) - [Versão em Portugues](http://www.gutenberg.org/browse/languages/pt)
-  - Ebooks de dominio publico 
+  - Ebooks de dominio publico
 - [NoiseTrade - books.noisetrade.com](https://books.noisetrade.com/)
   - Ebooks e audiobooks indies
 - [Project Euclid - projecteuclid.org](https://www.projecteuclid.org/)
@@ -72,6 +73,14 @@
 - [Udacity - udacity.com](https://br.udacity.com/courses/all)
 - [EDX - edx.org](https://www.edx.org/)
 - [MIT Open Courseware - ocw.mit.edu](https://ocw.mit.edu/courses/)
+- [Codeacademy](https://www.codecademy.com/)
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+
+## Podcasts sobre tecnologia
+- [Hipsters Ponto Tech](https://hipsters.tech/)
+- [ShopTalkShow](https://shoptalkshow.com/)
+- [Podcast Movimento UX](http://movimentoux.com/)
+- [Developer Tea](https://developertea.simplecast.fm/)
 
 ## AudioBooks
 - [Librivox - librivox.org](https://librivox.org/)
