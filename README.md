@@ -81,6 +81,7 @@
 - [ShopTalkShow](https://shoptalkshow.com/)
 - [Podcast Movimento UX](http://movimentoux.com/)
 - [Developer Tea](https://developertea.simplecast.fm/)
+- [Dev na Estrada](https://devnaestrada.com.br/)
 
 ## AudioBooks
 - [Librivox - librivox.org](https://librivox.org/)
