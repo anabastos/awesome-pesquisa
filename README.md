@@ -77,10 +77,15 @@
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 
 ## Podcasts sobre tecnologia
-- [Hipsters Ponto Tech](https://hipsters.tech/)
-- [ShopTalkShow](https://shoptalkshow.com/)
-- [Podcast Movimento UX](http://movimentoux.com/)
+- [DatabaseCast](http://databasecast.com.br)
 - [Developer Tea](https://developertea.simplecast.fm/)
+- [Hipsters Ponto Tech](https://hipsters.tech/)
+- [Lambda3 Podcast](https://www.lambda3.com.br/lambda3-podcast/)
+- [Podcast Movimento UX](http://movimentoux.com/)
+- [PodProgramar](https://podprogramar.com.br)
+- [podTag](https://podtag.com.br/)
+- [QuebraDev](https://quebradev.com.br/)
+- [ShopTalkShow](https://shoptalkshow.com/)
 
 ## AudioBooks
 - [Librivox - librivox.org](https://librivox.org/)
