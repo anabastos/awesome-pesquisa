@@ -75,6 +75,7 @@
 - [MIT Open Courseware - ocw.mit.edu](https://ocw.mit.edu/courses/)
 - [Codeacademy](https://www.codecademy.com/)
 - [FreeCodeCamp](https://www.freecodecamp.org/)
+- [The Odin Project](https://www.theodinproject.com/home)
 
 ## Podcasts sobre tecnologia
 - [Hipsters Ponto Tech](https://hipsters.tech/)
