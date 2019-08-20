@@ -8,6 +8,7 @@
 - [Reddit](#reddit)
 - [IRC](#irc)
 - [Busca](#busca)
+- [Dados](#dados)
 - [Outros](#outros)
 
 ## Ebooks e textos academicos
@@ -113,15 +114,22 @@
 - [Google para Ebooks](https://cse.google.com/cse/publicurl?cx=000661023013169144559:a1-kkiboeco)
 - [Google Academico](https://scholar.google.com.br/)
 
+## Dados
+
+- [OECD - Dados abertos de economia e estatistica](https://data.oecd.org/)
+- [Data Nasa - Dados abertos da NASA](https://data.nasa.gov/browse)
+- [Quandl - Dados financeiros(freemium)](https://www.quandl.com/)
+- [The Observatory of Economic Complexity (MIT)- Plataforma de visualização de dados de comércio exterior](https://oec.world/pt/)
+- [The Observatory of Economic Complexity (Harvard)- Plataforma de visualização de dados de comércio exterior](http://atlas.cid.harvard.edu/)
+- [Kaggle Datasets - Lista de datasets para utilização em ciências de dados e aprendizado de máquina](https://www.kaggle.com/datasets)
+- [Machine Learning Repository (UCI) - Lista de datasets para utilização em aprendizado de máquina](http://archive.ics.uci.edu/ml/index.php)
+
 ## Outros
 - [ShareLatex (Legado - Se juntou ao Overleaf)](https://www.sharelatex.com/)
 - [Overleaf - Editor colaborativo online para escrever e compartilhar textos em latex](https://pt.overleaf.com/)
 - [Zotero.org - Ferramenta de citação de pesquisa](https://www.zotero.org/)
 - [Torrents Academicos - Cursos e Papers](http://academictorrents.com/)
 - [DEVTUBE - Youtube para videos sobre desenvolvimento](https://dev.tube/)
-- [OECD - Dados abertos de economia e estatistica](https://data.oecd.org/)
-- [Data Nasa - Dados abertos da NASA](https://data.nasa.gov/browse)
-- [Quandl - Dados financeiros(freemium)](https://www.quandl.com/)
 - [XOWA - Download da wikipedia inteira](http://xowa.org/)
 - [Vertex42 - Templates de excel](https://www.vertex42.com/)
 - [Cheatography - Sheetcheats para referencia](https://www.cheatography.com/)
