@@ -114,7 +114,8 @@
 - [Google Academico](https://scholar.google.com.br/)
 
 ## Outros
-- [ShareLatex - Editor colaborativo online para escrever e compartilhar textos em latex](https://www.sharelatex.com/)
+- [ShareLatex (Legado - Se juntou ao Overleaf)](https://www.sharelatex.com/)
+- [Overleaf - Editor colaborativo online para escrever e compartilhar textos em latex](https://pt.overleaf.com/)
 - [Zotero.org - Ferramenta de citação de pesquisa](https://www.zotero.org/)
 - [Torrents Academicos - Cursos e Papers](http://academictorrents.com/)
 - [DEVTUBE - Youtube para videos sobre desenvolvimento](https://dev.tube/)
