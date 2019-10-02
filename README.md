@@ -79,15 +79,19 @@
 - [The Odin Project](https://www.theodinproject.com/home)
 
 ## Podcasts sobre tecnologia
+- [Cabeça de Lab](http://www.cabecadelab.com.br)
 - [DatabaseCast](http://databasecast.com.br)
 - [Developer Tea](https://developertea.simplecast.fm/)
+- [DevNaEstrada](https://devnaestrada.com.br)
 - [Hipsters Ponto Tech](https://hipsters.tech/)
 - [Lambda3 Podcast](https://www.lambda3.com.br/lambda3-podcast/)
+- [Pizza de Dados](https://pizzadedados.com)
 - [Podcast Movimento UX](http://movimentoux.com/)
 - [PodProgramar](https://podprogramar.com.br)
 - [podTag](https://podtag.com.br/)
 - [QuebraDev](https://quebradev.com.br/)
 - [ShopTalkShow](https://shoptalkshow.com/)
+- [Segurança Legal](https://www.segurancalegal.com)
 
 ## AudioBooks
 - [Librivox - librivox.org](https://librivox.org/)
