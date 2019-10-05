@@ -88,6 +88,9 @@
 - [podTag](https://podtag.com.br/)
 - [QuebraDev](https://quebradev.com.br/)
 - [ShopTalkShow](https://shoptalkshow.com/)
+- [Área de transferência](https://areadetransferencia.com.br/)
+- [BlueSoft Labs] (http://labs.bluesoft.com.br/category/podcast/)
+
 
 ## AudioBooks
 - [Librivox - librivox.org](https://librivox.org/)
