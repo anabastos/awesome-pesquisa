@@ -79,10 +79,12 @@
 - [The Odin Project](https://www.theodinproject.com/home)
 
 ## Podcasts sobre tecnologia
+- [DataHackers Podcast](https://datahackers.com.br/podcast/)
 - [DatabaseCast](http://databasecast.com.br)
 - [Developer Tea](https://developertea.simplecast.fm/)
 - [Hipsters Ponto Tech](https://hipsters.tech/)
 - [Lambda3 Podcast](https://www.lambda3.com.br/lambda3-podcast/)
+- [Pizza de Dados](https://pizzadedados.com/)
 - [Podcast Movimento UX](http://movimentoux.com/)
 - [PodProgramar](https://podprogramar.com.br)
 - [podTag](https://podtag.com.br/)
