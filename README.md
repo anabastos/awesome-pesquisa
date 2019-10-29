@@ -88,6 +88,10 @@
 - [podTag](https://podtag.com.br/)
 - [QuebraDev](https://quebradev.com.br/)
 - [ShopTalkShow](https://shoptalkshow.com/)
+- [Syntax.fm](https://syntax.fm/)
+- [React Podcast](https://reactpodcast.simplecast.fm/)
+- [devnaestrada](https://devnaestrada.com.br/)
+- [CodeNewbie](https://www.codenewbie.org/)
 
 ## AudioBooks
 - [Librivox - librivox.org](https://librivox.org/)
