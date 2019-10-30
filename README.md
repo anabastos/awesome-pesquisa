@@ -84,6 +84,7 @@
 - [Hipsters Ponto Tech](https://hipsters.tech/)
 - [Lambda3 Podcast](https://www.lambda3.com.br/lambda3-podcast/)
 - [Podcast Movimento UX](http://movimentoux.com/)
+- [Developer Tea](https://developertea.simplecast.fm/)
 - [PodProgramar](https://podprogramar.com.br)
 - [podTag](https://podtag.com.br/)
 - [QuebraDev](https://quebradev.com.br/)
@@ -92,7 +93,7 @@
 - [BlueSoft Labs] (http://labs.bluesoft.com.br/category/podcast/)
 - [Syntax.fm](https://syntax.fm/)
 - [React Podcast](https://reactpodcast.simplecast.fm/)
-- [devnaestrada](https://devnaestrada.com.br/)
+- [Dev na Estrada](https://devnaestrada.com.br/)
 - [CodeNewbie](https://www.codenewbie.org/)
 
 ## AudioBooks
