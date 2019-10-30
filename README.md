@@ -88,6 +88,8 @@
 - [podTag](https://podtag.com.br/)
 - [QuebraDev](https://quebradev.com.br/)
 - [ShopTalkShow](https://shoptalkshow.com/)
+- [Área de transferência](https://areadetransferencia.com.br/)
+- [BlueSoft Labs] (http://labs.bluesoft.com.br/category/podcast/)
 - [Syntax.fm](https://syntax.fm/)
 - [React Podcast](https://reactpodcast.simplecast.fm/)
 - [devnaestrada](https://devnaestrada.com.br/)
