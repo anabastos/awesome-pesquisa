@@ -8,6 +8,7 @@
 - [Reddit](#reddit)
 - [IRC](#irc)
 - [Busca](#busca)
+- [Dados](#dados)
 - [Outros](#outros)
 
 ## Ebooks e textos academicos
@@ -75,13 +76,25 @@
 - [MIT Open Courseware - ocw.mit.edu](https://ocw.mit.edu/courses/)
 - [Codeacademy](https://www.codecademy.com/)
 - [FreeCodeCamp](https://www.freecodecamp.org/)
+- [The Odin Project](https://www.theodinproject.com/home)
 
 ## Podcasts sobre tecnologia
+- [DatabaseCast](http://databasecast.com.br)
+- [Developer Tea](https://developertea.simplecast.fm/)
 - [Hipsters Ponto Tech](https://hipsters.tech/)
-- [ShopTalkShow](https://shoptalkshow.com/)
+- [Lambda3 Podcast](https://www.lambda3.com.br/lambda3-podcast/)
 - [Podcast Movimento UX](http://movimentoux.com/)
 - [Developer Tea](https://developertea.simplecast.fm/)
+- [PodProgramar](https://podprogramar.com.br)
+- [podTag](https://podtag.com.br/)
+- [QuebraDev](https://quebradev.com.br/)
+- [ShopTalkShow](https://shoptalkshow.com/)
+- [Área de transferência](https://areadetransferencia.com.br/)
+- [BlueSoft Labs] (http://labs.bluesoft.com.br/category/podcast/)
+- [Syntax.fm](https://syntax.fm/)
+- [React Podcast](https://reactpodcast.simplecast.fm/)
 - [Dev na Estrada](https://devnaestrada.com.br/)
+- [CodeNewbie](https://www.codenewbie.org/)
 
 ## AudioBooks
 - [Librivox - librivox.org](https://librivox.org/)
@@ -108,14 +121,22 @@
 - [Google para Ebooks](https://cse.google.com/cse/publicurl?cx=000661023013169144559:a1-kkiboeco)
 - [Google Academico](https://scholar.google.com.br/)
 
-## Outros
-- [ShareLatex - Editor colaborativo online para escrever e compartilhar textos em latex](https://www.sharelatex.com/)
-- [Zotero.org - Ferramenta de citação de pesquisa](https://www.zotero.org/)
-- [Torrents Academicos - Cursos e Papers](http://academictorrents.com/)
-- [DEVTUBE - Youtube para videos sobre desenvolvimento](https://dev.tube/)
+## Dados
+
 - [OECD - Dados abertos de economia e estatistica](https://data.oecd.org/)
 - [Data Nasa - Dados abertos da NASA](https://data.nasa.gov/browse)
 - [Quandl - Dados financeiros(freemium)](https://www.quandl.com/)
+- [The Observatory of Economic Complexity (MIT)- Plataforma de visualização de dados de comércio exterior](https://oec.world/pt/)
+- [The Observatory of Economic Complexity (Harvard)- Plataforma de visualização de dados de comércio exterior](http://atlas.cid.harvard.edu/)
+- [Kaggle Datasets - Lista de datasets para utilização em ciências de dados e aprendizado de máquina](https://www.kaggle.com/datasets)
+- [Machine Learning Repository (UCI) - Lista de datasets para utilização em aprendizado de máquina](http://archive.ics.uci.edu/ml/index.php)
+
+## Outros
+- [ShareLatex (Legado - Se juntou ao Overleaf)](https://www.sharelatex.com/)
+- [Overleaf - Editor colaborativo online para escrever e compartilhar textos em latex](https://pt.overleaf.com/)
+- [Zotero.org - Ferramenta de citação de pesquisa](https://www.zotero.org/)
+- [Torrents Academicos - Cursos e Papers](http://academictorrents.com/)
+- [DEVTUBE - Youtube para videos sobre desenvolvimento](https://dev.tube/)
 - [XOWA - Download da wikipedia inteira](http://xowa.org/)
 - [Vertex42 - Templates de excel](https://www.vertex42.com/)
 - [Cheatography - Sheetcheats para referencia](https://www.cheatography.com/)
