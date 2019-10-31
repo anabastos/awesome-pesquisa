@@ -80,6 +80,7 @@
 
 ## Podcasts sobre tecnologia
 - [Cabeça de Lab](http://www.cabecadelab.com.br)
+- [Coluna 7](http://colaboradados.com.br/podcast.html)
 - [DatabaseCast](http://databasecast.com.br)
 - [Hipsters Ponto Tech](https://hipsters.tech/)
 - [Lambda3 Podcast](https://www.lambda3.com.br/lambda3-podcast/)
