@@ -77,6 +77,8 @@
 - [Codeacademy](https://www.codecademy.com/)
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [The Odin Project](https://www.theodinproject.com/home)
+- [Code Avengers](https://www.codeavengers.com/)
+- [Khan Academy](https://www.khanacademy.org/)
 
 ## Podcasts sobre tecnologia
 - [Cabeça de Lab](http://www.cabecadelab.com.br)
