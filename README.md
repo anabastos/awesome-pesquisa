@@ -81,12 +81,14 @@
 - [Khan Academy](https://www.khanacademy.org/)
 
 ## Podcasts sobre tecnologia
+- [Pizza de Dados](https://pizzadedados.com/)
+- [Pizza de Dados](https://pizzadedados.com)
+- [DataHackers Podcast](https://datahackers.com.br/podcast/)
 - [Cabeça de Lab](http://www.cabecadelab.com.br)
 - [Coluna 7](http://colaboradados.com.br/podcast.html)
 - [DatabaseCast](http://databasecast.com.br)
 - [Hipsters Ponto Tech](https://hipsters.tech/)
 - [Lambda3 Podcast](https://www.lambda3.com.br/lambda3-podcast/)
-- [Pizza de Dados](https://pizzadedados.com)
 - [Podcast Movimento UX](http://movimentoux.com/)
 - [Developer Tea](https://developertea.simplecast.fm/)
 - [PodProgramar](https://podprogramar.com.br)
