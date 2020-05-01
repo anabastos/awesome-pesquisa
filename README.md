@@ -93,7 +93,7 @@
 - [ShopTalkShow](https://shoptalkshow.com/)
 - [Segurança Legal](https://www.segurancalegal.com)
 - [Área de transferência](https://areadetransferencia.com.br/)
-- [BlueSoft Labs] (http://labs.bluesoft.com.br/category/podcast/)
+- [BlueSoft Labs](http://labs.bluesoft.com.br/category/podcast/)
 - [Syntax.fm](https://syntax.fm/)
 - [React Podcast](https://reactpodcast.simplecast.fm/)
 - [Dev na Estrada](https://devnaestrada.com.br/)
