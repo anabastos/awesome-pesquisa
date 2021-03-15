@@ -75,6 +75,7 @@
 
 - [OpenLearn - open.edu](http://www.open.edu/openlearn/free-courses/full-catalogue)
 - [Coursera - coursera.org](https://www.coursera.org/?authMode=signup)
+- [Curso em Vídeo](https://www.cursoemvideo.com/cursos/)
 - [Udacity - udacity.com](https://br.udacity.com/courses/all)
 - [EDX - edx.org](https://www.edx.org/)
 - [MIT Open Courseware - ocw.mit.edu](https://ocw.mit.edu/courses/)
@@ -83,6 +84,7 @@
 - [The Odin Project](https://www.theodinproject.com/home)
 - [Code Avengers](https://www.codeavengers.com/)
 - [Khan Academy](https://www.khanacademy.org/)
+- [Rocketseat](https://rocketseat.com.br/)
 
 ## Podcasts sobre tecnologia
 
