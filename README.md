@@ -1,7 +1,9 @@
 # Awesome Pesquisa
 
 ## Sumário
-- [Ebooks e textos acadêmicos](#ebooks-e-textos-academicos)
+
+- [Ebooks e textos academicos](#ebooks-e-textos-academicos)
+  - [Português(Europeu & BR)](#portuguêseuropeu--br)
 - [Cursos gratuitos](#cursos-gratuitos)
 - [Podcasts sobre tecnologia](#podcasts-sobre-tecnologia)
 - [AudioBooks](#audiobooks)
@@ -47,6 +49,7 @@
   - Biblioteca online de papers e journals
 
 #### Português(Europeu & BR)
+
 - [Bibliotronica Portuguesa PT](https://bibliotronicaportuguesa.pt/)
   - 3.000 livros em português para download
 - [Arquivo Marxista](https://www.marxists.org/portugues/)
@@ -69,6 +72,7 @@
   - Reúne mais de 1.000 arquivos, incluindo biografias de cineastas, textos científicos sobre comunicação e clássicos da literatura universal.
 
 ## Cursos gratuitos
+
 - [OpenLearn - open.edu](http://www.open.edu/openlearn/free-courses/full-catalogue)
 - [Coursera - coursera.org](https://www.coursera.org/?authMode=signup)
 - [Udacity - udacity.com](https://br.udacity.com/courses/all)
@@ -81,35 +85,38 @@
 - [Khan Academy](https://www.khanacademy.org/)
 
 ## Podcasts sobre tecnologia
-- [Pizza de Dados](https://pizzadedados.com/)
-- [Pizza de Dados](https://pizzadedados.com)
-- [DataHackers Podcast](https://datahackers.com.br/podcast/)
+
+- [Área de transferência](https://areadetransferencia.com.br/)
+- [BlueSoft Labs](http://labs.bluesoft.com.br/category/podcast/)
 - [Cabeça de Lab](http://www.cabecadelab.com.br)
+- [CodeNewbie](https://www.codenewbie.org/)
 - [Coluna 7](http://colaboradados.com.br/podcast.html)
 - [DatabaseCast](http://databasecast.com.br)
+- [DataHackers Podcast](https://datahackers.com.br/podcast/)
+- [Dev na Estrada](https://devnaestrada.com.br/)
+- [Developer Tea](https://developertea.simplecast.fm/)
+- [FalaDev](https://anchor.fm/faladev)
 - [Hipsters Ponto Tech](https://hipsters.tech/)
 - [Lambda3 Podcast](https://www.lambda3.com.br/lambda3-podcast/)
+- [Pizza de Dados](https://pizzadedados.com/)
 - [Podcast Movimento UX](http://movimentoux.com/)
-- [Developer Tea](https://developertea.simplecast.fm/)
 - [PodProgramar](https://podprogramar.com.br)
 - [podTag](https://podtag.com.br/)
 - [QuebraDev](https://quebradev.com.br/)
-- [ShopTalkShow](https://shoptalkshow.com/)
-- [Segurança Legal](https://www.segurancalegal.com)
-- [Área de transferência](https://areadetransferencia.com.br/)
-- [BlueSoft Labs](http://labs.bluesoft.com.br/category/podcast/)
-- [Syntax.fm](https://syntax.fm/)
 - [React Podcast](https://reactpodcast.simplecast.fm/)
-- [Dev na Estrada](https://devnaestrada.com.br/)
-- [CodeNewbie](https://www.codenewbie.org/)
+- [Segurança Legal](https://www.segurancalegal.com)
+- [ShopTalkShow](https://shoptalkshow.com/)
+- [Syntax.fm](https://syntax.fm/)
 
 ## AudioBooks
+
 - [Librivox - librivox.org](https://librivox.org/)
   - Dominio publico de audiobooks por voluntários
 - [AudioBookBay - audiobookla.com](http://audiobookla.com/)
   - Lib de audiobooks para download
 
 ## Reddit
+
 - [r/FreeEBOOKS](https://www.reddit.com/r/FreeEBOOKS/)
 - [r/academicpublishing](https://www.reddit.com/r/academicpublishing/)
 - [r/opendirectories](https://www.reddit.com/r/opendirectories/)
@@ -125,6 +132,7 @@
 [Como usar IRC - reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/)
 
 ## Busca
+
 - [Google para Ebooks](https://cse.google.com/cse/publicurl?cx=000661023013169144559:a1-kkiboeco)
 - [Google Academico](https://scholar.google.com.br/)
 
@@ -139,6 +147,7 @@
 - [Machine Learning Repository (UCI) - Lista de datasets para utilização em aprendizado de máquina](http://archive.ics.uci.edu/ml/index.php)
 
 ## Outros
+
 - [ShareLatex (Legado - Se juntou ao Overleaf)](https://www.sharelatex.com/)
 - [Overleaf - Editor colaborativo online para escrever e compartilhar textos em latex](https://pt.overleaf.com/)
 - [Zotero.org - Ferramenta de citação de pesquisa](https://www.zotero.org/)
