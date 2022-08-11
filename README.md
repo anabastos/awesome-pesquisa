@@ -162,5 +162,6 @@
 - [Awesome Research - Lista de ferramentas de pesquisa](https://github.com/emptymalei/awesome-research)
 - [NoExcuseList](http://www.noexcuselist.com/)
 - [Leitura de Bolso - Livros por wpp](http://leituradebolso.com/)
+- [iLovePDF - Ferramenta online para trabalhar com PDF](https://www.ilovepdf.com/pt)
 
 #### Para colaborar com conteúdo basta criar uma [issue](https://github.com/anabastos/awesome-pesquisa/issues) ou mandar um [PR](https://github.com/anabastos/awesome-pesquisa/pulls)!
