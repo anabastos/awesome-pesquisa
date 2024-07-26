@@ -88,6 +88,10 @@
 - [Rocketseat](https://rocketseat.com.br/)
 - [Fundação Bradesco Online](https://www.ev.org.br/)
 - [{Reprograma} Para Mulheres!](https://reprograma.com.br/)
+- [Harvard Online Courses](https://pll.harvard.edu/catalog/free)
+- [Stanford Online](https://online.stanford.edu/free-courses)
+- [FIAP](https://www.eucapacito.com.br/cursos/?_sft_parceiro_ec=fiap)
+
 ## Podcasts sobre tecnologia
 
 - [Área de transferência](https://areadetransferencia.com.br/)
@@ -111,6 +115,7 @@
 - [Segurança Legal](https://www.segurancalegal.com)
 - [ShopTalkShow](https://shoptalkshow.com/)
 - [Syntax.fm](https://syntax.fm/)
+- [Changelog](https://changelog.com/podcast)
 
 ## AudioBooks
 
@@ -139,6 +144,8 @@
 
 - [Google para Ebooks](https://cse.google.com/cse/publicurl?cx=000661023013169144559:a1-kkiboeco)
 - [Google Academico](https://scholar.google.com.br/)
+- [Google Scholar Alerts](https://scholar.google.com/scholar_alerts?view_op=list_alerts&hl=en)
+- [ResearchGate](https://www.researchgate.net)
 
 ## Dados
 
@@ -149,6 +156,13 @@
 - [The Observatory of Economic Complexity (Harvard)- Plataforma de visualização de dados de comércio exterior](http://atlas.cid.harvard.edu/)
 - [Kaggle Datasets - Lista de datasets para utilização em ciências de dados e aprendizado de máquina](https://www.kaggle.com/datasets)
 - [Machine Learning Repository (UCI) - Lista de datasets para utilização em aprendizado de máquina](http://archive.ics.uci.edu/ml/index.php)
+- [Google DataSet Search](https://datasetsearch.research.google.com)
+- [World Bank Open Data](https://data.worldbank.org)
+
+## Ferramentas de Colaboração
+
+- [Mendeley](https://www.mendeley.com)
+- [ResearchGate](https://www.researchgate.net)
 
 ## Outros
 
@@ -164,5 +178,7 @@
 - [Awesome Research - Lista de ferramentas de pesquisa](https://github.com/emptymalei/awesome-research)
 - [NoExcuseList](http://www.noexcuselist.com/)
 - [Leitura de Bolso - Livros por wpp](http://leituradebolso.com/)
+- [Zenodo](https://zenodo.org)
+- [Dryad](https://datadryad.org/stash)
 
 #### Para colaborar com conteúdo basta criar uma [issue](https://github.com/anabastos/awesome-pesquisa/issues) ou mandar um [PR](https://github.com/anabastos/awesome-pesquisa/pulls)!
