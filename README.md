@@ -70,7 +70,8 @@
   - Instituição portuguesa com acervo de livros antigos e documentos historicos.
 - [Universia](http://noticias.universia.com.br/tag/livros-gr%C3%A1tis/) - [Por tema](https://catracalivre.com.br/criatividade/baixe-mais-de-100-livros-academicos/)
   - Reúne mais de 1.000 arquivos, incluindo biografias de cineastas, textos científicos sobre comunicação e clássicos da literatura universal.
-
+- [CaFe](https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br/index.php/acesso-cafe.html)
+  - Comunidade Acadêmica Federada (CAFe). Disponibiliza periodicos pagos, gratuitamente para alunos de instituições públicas/federais.
 ## Cursos gratuitos
 
 - [OpenLearn - open.edu](http://www.open.edu/openlearn/free-courses/full-catalogue)
@@ -85,6 +86,8 @@
 - [Code Avengers](https://www.codeavengers.com/)
 - [Khan Academy](https://www.khanacademy.org/)
 - [Rocketseat](https://rocketseat.com.br/)
+- [Fundação Bradesco Online](https://www.ev.org.br/)
+- [{Reprograma} Para Mulheres!](https://reprograma.com.br/)
 - [Harvard Online Courses](https://pll.harvard.edu/catalog/free)
 - [Stanford Online](https://online.stanford.edu/free-courses)
 - [FIAP](https://www.eucapacito.com.br/cursos/?_sft_parceiro_ec=fiap)
