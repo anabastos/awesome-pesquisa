@@ -89,6 +89,7 @@
 - [Fundação Bradesco Online](https://www.ev.org.br/)
 - [{Reprograma} Para Mulheres!](https://reprograma.com.br/)
 - [Harvard Online Courses](https://pll.harvard.edu/catalog/free)
+- [Santander Open Academy](https://app.santanderopenacademy.com/pt-BR/program/search?resourceType=SOA_COURSE&resourceType=LMS_COURSE)
 - [Stanford Online](https://online.stanford.edu/free-courses)
 - [FIAP](https://www.eucapacito.com.br/cursos/?_sft_parceiro_ec=fiap)
 
