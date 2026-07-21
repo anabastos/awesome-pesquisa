@@ -170,6 +170,8 @@
 - [ShareLatex (Legado - Se juntou ao Overleaf)](https://www.sharelatex.com/)
 - [Overleaf - Editor colaborativo online para escrever e compartilhar textos em latex](https://pt.overleaf.com/)
 - [Zotero.org - Ferramenta de citação de pesquisa](https://www.zotero.org/)
+- [CiteMe - Gerador de citações acadêmicas](https://citeme.app)
+  - Busca em 10+ bases de dados (OpenAlex, PubMed, Semantic Scholar, CrossRef, arXiv, etc.) e formata em 60 estilos curados (ABNT, APA, Vancouver, Harvard, etc.). Gratuito para começar.
 - [Torrents Academicos - Cursos e Papers](http://academictorrents.com/)
 - [DEVTUBE - Youtube para videos sobre desenvolvimento](https://dev.tube/)
 - [XOWA - Download da wikipedia inteira](http://xowa.org/)
